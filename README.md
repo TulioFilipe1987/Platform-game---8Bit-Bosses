@@ -1,2 +1,2 @@
-# Platform-game---8Bit-Bosses
+# Platform-game-8Bit-Bosses
 Platform game simple
