@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: da6ce6133e97ffd4983d98ebcc68ae1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - misselePrefab: {instanceID: 0}
+  - misseleSpawner: {instanceID: 0}
+  - enemyTrans: {instanceID: 0}
+  - enemyAnim: {instanceID: 0}
+  - misseleSFX: {fileID: 8300000, guid: 3913775cb7c12294d9a23fc00a60eb0b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
